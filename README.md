@@ -54,5 +54,7 @@ COMMANDS IN LINUX
 23)mkdir to create dirctory
 24)mkdir -p 1/2/3 to create dirctory inside direcoty
 25)rmdir to delete empty directory
-26)
+26)reboot  or init 6
+27)poweroff  or init 0
+28)
 
