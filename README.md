@@ -76,4 +76,21 @@ ls -ltr checking permission for the files
 chmod change th mode
 it used to change the permission
 ![Screenshot_2021-04-13-08-13-38-88_7a4090f09f6554852d748ee9fd6f40d3](https://user-images.githubusercontent.com/53614750/114489260-79c13300-9c30-11eb-8f30-9cadc9bd5453.jpg)
+chmod 777 filename
+7-denotes read write execution for root
+
+
+7-denotes read write execution for system user
+
+
+
+7-denotes read write execution for local user
+
+
+
+
+
+
+
+
 
