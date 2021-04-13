@@ -86,8 +86,13 @@ chmod 777 filename
 
 7-denotes read write execution for local user
 
+rm - to delete files
+rm -rf * delte everythinfg in folder or dekstop
 
 
+shell scripiting in order to combine multiple commands 
+#!bin/bash
+commands
 
 
 
