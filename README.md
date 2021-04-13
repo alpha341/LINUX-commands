@@ -1,6 +1,13 @@
 # LINUX-commands
 THE ARCHIETCTURE OF LINUX OS
-![linux_os](https://user-images.githubusercontent.com/53614750/114379689-ba746a00-9ba6-11eb-8ba1-d68142bd68b8.jpg]
+
+
+
+
+
+
+
+
 Two Interface user can go
 1-->GUI(GRAPHIC USER INTERFACE)
 2--->CLI(COMMAND LINE INTERFACE)
@@ -56,5 +63,17 @@ COMMANDS IN LINUX
 25)rmdir to delete empty directory
 26)reboot  or init 6
 27)poweroff  or init 0
-28)
+
+
+there are three users
+1)Root user 0
+2)system user 1-999
+3)local user1000-65534
+
+useradd name
+ls -l -checking permisiion for the folder
+ls -ltr checking permission for the files
+chmod change th mode
+it used to change the permission
+![Screenshot_2021-04-13-08-13-38-88_7a4090f09f6554852d748ee9fd6f40d3](https://user-images.githubusercontent.com/53614750/114489260-79c13300-9c30-11eb-8f30-9cadc9bd5453.jpg)
 
